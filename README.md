@@ -9,7 +9,7 @@ Historical Data:
   It turns out, the machine learning part of a machine learning project is by far the easiest part. The hard part is getting your hands on the necessary data. We need three datasets:
     1) Historical Stock Statistics: Training Features
     2) Historical Stock Prices: Training Labels 
-    3) Historical S&P500 Prices: 
+    3) Historical S&P500 Prices: Benchmark to compare prices with 
 
 Historical Stock Statistics:
      I'll be the first to admit that I was at a loss on how to get my hands on this data until I watched Sentex's video series. He provided intrQuarter.zip which I will parse and put into a .csv file. This will be the features:
